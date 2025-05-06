@@ -6,4 +6,4 @@ This project involves analyzing a large dataset comprising over 1.5 million rows
 
 Using Python libraries such as pandas, seaborn, matplotlib, sklearn, and imblearn, different machine learning models were employed to achieve this objective. Models like logistic regression, SVM classifier and regressor, random forest regressor and classifier, and neural networks were explored. The project successfully achieved a 80% accuracy in predicting the burst values, demonstrating the potential of these models in forecasting maintenance delays.
 
-This report provides a comprehensive overview of the methods and techniques used, the results obtained, and the insights gained from the analysis. It serves as a testament to the practical application of machine learning in solving real-world problems in the railway industry.
+This report provides a comprehensive overview of the methods and techniques used, the results obtained, and the insights gained from the analysis. It serves as a testament to the practical application of machine learning in solving real world problems in the railway industry.
